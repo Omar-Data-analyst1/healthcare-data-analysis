@@ -68,7 +68,9 @@ The dataset includes:
 🔍 Data Visualization
 💼 Business Analysis
 📖 Storytelling with Data
-🖼️ Dashboard Preview
 
-(Add dashboard screenshots here)
+4.Dashboard Looklike
+(https://github.com/Omar-Data-analyst1/healthcare-data-analysis/blob/main/Snapshot%20of%20Dashboard%201.png)
+Dashboard Preview
+
 
