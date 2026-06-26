@@ -69,6 +69,6 @@ The dataset includes:
 📖 Storytelling with Data
 
 5.Dashboard Looklike
-(https://github.com/Omar-Data-analyst1/healthcare-data-analysis/blob/main/Snapshot%20of%20Dashboard%201.png?raw=true)
+(https://raw.githubOmar-Data-analyst1/healthcare-data-analysis/blob/ea3fa23e9a4ea36d020971e5390759b772966054/Snapshot%20of%20Dashboard%201.png)
 -[Dashboard Preview](https://github.com/Omar-Data-analyst1/healthcare-data-analysis/blob/main/Dashboard%20Preview.png)
 
