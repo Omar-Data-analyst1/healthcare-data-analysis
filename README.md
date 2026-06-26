@@ -19,48 +19,47 @@ The objective was to build a dashboard that answers these questions in one place
 The dataset was collected from the Kradle platform in Excel format.
 The dataset includes:
 
-👥 Patient Details
-🏥 Hospital Information
-👨‍⚕️ Doctor Information
-💳 Insurance Providers
-💰 Billing Details
-🚑 Admission Types
-❤️ Medical Conditions
-📅 Admission Dates
-🛠️ Tools & Technologies
-📊 Power BI
-📑 Microsoft Excel
-🔄 Power Query
-📈 DAX
-✨ Dashboard Features
-📌 Executive KPI Cards
-💰 Revenue Analysis
-👥 Patient Demographics
-🏥 Hospital Performance
-👨‍⚕️ Doctor Performance
-💳 Insurance Provider Analysis
-📈 Revenue Trend Analysis
-🎛️ Interactive Filters & Slicers
-📊 Key Business Insights
-💰 Revenue Insights
-💵 Total Revenue: 1.42 Billion
-💳 Insurance providers such as Cigna and Medicare contributed a significant portion of total revenue.
-📈 Revenue showed steady growth from 2019–2023, followed by a decline in 2024, which may indicate incomplete data or operational changes.
-🏥 Hospital Insights
-🏆 Several hospitals generated more than 1 Million in revenue.
-📊 Hospital-wise comparisons helped identify top-performing facilities.
-👨‍⚕️ Doctor Insights
-👨‍⚕️ Certain doctors handled a higher number of patients while generating greater billing amounts.
-📌 Performance analysis highlighted workload distribution across healthcare providers.
-👥 Patient Insights
-⚖️ Gender distribution remained nearly balanced.
-👨‍🦳 Middle-aged and senior patients formed the largest patient groups.
-❤️ Blood type and medical condition analysis revealed common treatment patterns.
-🚑 Admission Insights
-📋 Elective, Emergency, and Urgent admissions were distributed fairly evenly, indicating a balanced case mix.
-📚 What I Learned
+3.Patient Data Details
+-Hospital Information
+-Doctor Information
+-Insurance Providers
+-Billing Details
+-Admission Types
+-Medical Conditions
+-Admission Dates
+-Tools & Technologies
+-Power BI
+-Microsoft Excel
+-Power Query
+-DAX
+-Dashboard Features
+-Executive KPI Cards
+-Revenue Analysis
+-Patient Demographics
+-Hospital Performance
+-Doctor Performance
+-Insurance Provider Analysis
+-Revenue Trend Analysis
+-Interactive Filters & Slicers
+-Key Business Insights
+-Revenue Insights
+-Total Revenue: 1.42 Billion
+-Insurance providers such as Cigna and Medicare contributed a significant portion of total revenue.
+-Revenue showed steady growth from 2019–2023, followed by a decline in 2024, which may indicate incomplete data or operational changes.
+-Hospital Insights
+-Several hospitals generated more than 1 Million in revenue.
+-Hospital-wise comparisons helped identify top-performing facilities.
+-Doctor Insights
+-Certain doctors handled a higher number of patients while generating greater billing amounts.
+-Performance analysis highlighted workload distribution across healthcare providers.
+-Patient Insights
+-Gender distribution remained nearly balanced.
+-Middle-aged and senior patients formed the largest patient groups.
+-Blood type and medical condition analysis revealed common treatment patterns.
+-Admission Insights
+-Elective, Emergency, and Urgent admissions were distributed fairly evenly, indicating a balanced case mix.
 
-3.Project helped me strengthen my skills in:
+4.Project helped me strengthen my skills in:
 
 🧹 Data Cleaning using Power Query
 📊 Dashboard Design in Power BI
@@ -69,8 +68,8 @@ The dataset includes:
 💼 Business Analysis
 📖 Storytelling with Data
 
-4.Dashboard Looklike
+5.Dashboard Looklike
 (https://github.com/Omar-Data-analyst1/healthcare-data-analysis/blob/main/Snapshot%20of%20Dashboard%201.png)
-Dashboard Preview
-
+-Dashboard Preview
+(https://github.com/Omar-Data-analyst1/healthcare-data-analysis/blob/main/Dashboard%20Preview.png)
 
