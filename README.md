@@ -70,6 +70,5 @@ The dataset includes:
 
 5.Dashboard Looklike
 (https://github.com/Omar-Data-analyst1/healthcare-data-analysis/blob/main/Snapshot%20of%20Dashboard%201.png)
--Dashboard Preview
-(https://github.com/Omar-Data-analyst1/healthcare-data-analysis/blob/main/Dashboard%20Preview.png)
+-[Dashboard Preview](https://github.com/Omar-Data-analyst1/healthcare-data-analysis/blob/main/Dashboard%20Preview.png)
 
